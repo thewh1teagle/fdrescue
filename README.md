@@ -3,7 +3,7 @@
 
 
 
-ddrescue is a great tool. It helps our to recover files from damaged hard drive.
+ddrescue is a great tool. It helps us to recover files from damaged hard drive.
 
 The problem with ddrescue is that we can only recover files with it, so we cannot
 
